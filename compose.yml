@@ -3,4 +3,4 @@ services:
    cloudflared-tunnel:
       image: cloudflare/cloudflared:latest
       restart: unless-stopped
-      command: tunnel --no-autoupdate run --token eyJhIjoiMjlmY2I1ZjcyNmRmMDExYjgwYzliZjQyNmMyNmQwODQiLCJ0IjoiMTIzYjIzYWYtMWZlZi00NmIzLThiMzgtMzA0M2MzN2IzYTIyIiwicyI6Ik5XTmpaV1psWmpFdE1XUTBOaTAwTldNM0xUaG1Oemt0TVdWbU9UYzNNakZrT0dWaiJ9
+      command: tunnel --no-autoupdate run --token 
